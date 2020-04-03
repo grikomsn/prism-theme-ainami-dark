@@ -1,0 +1,12 @@
+{
+  "name": "@grikomsn/prism-theme-ainami-dark",
+  "description": "PrismJS stylesheet theme based on many copy-pastas",
+  "version": "1.0.2",
+  "repository": "https://github.com/grikomsn/prism-theme-ainami-dark.git",
+  "author": "Griko Nibras <grikomsn@gmail.com>",
+  "main": "prism.min.css",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT"
+}
